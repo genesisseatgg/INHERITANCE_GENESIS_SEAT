@@ -10,4 +10,3 @@ public class Analyst extends Employee {
         return super.salary * .05;
     }
 }
-//HELLO
